@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "Sanjeev Kapoor",
+    "image": "https://www.auditionform.in/wp-content/uploads/2020/06/Sanjeev-Kapoor.jpg",
+    "experience": 40,
+    "likes": 150000,
+    "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He has hosted several cooking shows on television and is the author of several cookbooks. He is also the founder of a successful chain of restaurants in India.",
+    "numRecipe": 2,
+    "recipes": [
+      {
+        "name": "Butter Chicken",
+        "ingredients": ["chicken", "yogurt", "tomatoes", "cream", "spices"],
+        "method": "Marinate chicken in yogurt and spices, cook in a tomato and cream-based sauce"
+      },
+      {
+        "name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onions", "tomatoes", "spices"],
+        "method": "Cook spinach and spices, add fried paneer and tomato-onion gravy"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vikas Khanna",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Doctorate_ceremony.jpg",
+    "experience": 25,
+    "likes": 120000,
+    "bio": "Vikas Khanna is an Indian-American chef, restaurateur, cookbook writer, filmmaker, humanitarian, and judge on the television show MasterChef India. He has written over 35 cookbooks and has hosted several cooking shows on television.",
+    "numRecipes": 2,
+    "recipes": [
+      {
+        "name": "Chicken Tikka Masala",
+        "ingredients": ["chicken", "yogurt", "spices", "tomatoes", "cream"],
+        "method": "Marinate chicken in yogurt and spices, cook in a tomato and cream-based sauce"
+      },
+      {
+        "name": "Dal Makhani",
+        "ingredients": [
+          "black lentils",
+          "red kidney beans",
+          "onions",
+          "tomatoes",
+          "cream"
+        ],
+        "method": "Cook lentils and beans in tomato and cream-based gravy, add spices and fried onions"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Madhur Jaffrey",
+    "image": "https://assets.website-files.com/60b89fcf3a0601a3924e0ab1/61f7a826dd7596069dae2a88_MadhurJ.jpeg",
+    "experience": 50,
+    "likes": 90000,
+    "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is also a prolific author of cookbooks, and is known for bringing Indian cuisine to the western world through her books and cooking shows.",
+    "numRecipe": 3,
+    "recipes": [
+      {
+        "name": "Chicken Curry",
+        "ingredients": ["chicken", "onions", "tomatoes", "spices", "yogurt"],
+        "method": "Cook chicken in onion-tomato based gravy with yogurt and spices"
+      },
+      {
+        "name": "Saag Paneer",
+        "ingredients": ["spinach", "paneer", "onions", "tomatoes", "spices"],
+        "method": "Cook spinach and spices, add fried paneer and tomato-onion gravy"
+      },
+      {
+        "name": "Lamb Rogan Josh",
+        "ingredients": ["lamb", "yogurt", "spices", "onions", "tomatoes"],
+        "method": "Cook lamb in a yogurt and spice-based gravy with onions and tomatoes"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ranveer Brar",
+    "image": "https://assets.telegraphindia.com/telegraph/2022/Dec/1672315886_ranveer-profile-1-cms.jpg",
+    "experience": 20,
+    "likes": 95000,
+    "bio": "Ranveer Brar is an Indian celebrity chef, television host, judge, and food stylist. He has hosted several cooking shows on television and is the author of multiple cookbooks. He is known for his innovative and contemporary take on traditional Indian cuisine.",
+    "numRecipes": 2,
+    "recipes": [
+      {
+        "name": "Chicken Biryani",
+        "ingredients": [
+          "basmati rice",
+          "chicken",
+          "yogurt",
+          "spices",
+          "onions"
+        ],
+        "method": "Marinate chicken in yogurt and spices, layer with parboiled rice and fried onions, cook over low heat"
+      },
+      {
+        "name": "Paneer Tikka",
+        "ingredients": ["paneer", "yogurt", "spices", "bell peppers", "onions"],
+        "method": "Marinate paneer and vegetables in yogurt and spices, grill until charred and tender"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Atul Kochhar",
+    "image": "https://rb.gy/5wubb",
+    "experience": 30,
+    "likes": 85000,
+    "bio": "Atul Kochhar is an Indian-born, British-based Michelin-starred chef, restaurateur, and television personality. He is the owner and head chef of the acclaimed Benares restaurant in London, which serves modern Indian cuisine.",
+    "numRecipe": 2,
+    "recipes": [
+      {
+        "name": "Lamb Rogan Josh",
+        "ingredients": ["lamb", "yogurt", "spices", "onions", "tomatoes"],
+        "method": "Cook lamb in a yogurt and spice-based gravy with onions and tomatoes"
+      },
+      {
+        "name": "Baingan Bharta",
+        "ingredients": ["eggplant", "tomatoes", "onions", "spices", "cilantro"],
+        "method": "Roast eggplant, cook with onions and tomatoes, add spices and garnish with cilantro"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Hari Nayak",
+    "image": "https://rb.gy/cacpb",
+    "experience": 15,
+    "likes": 75000,
+    "bio": "Hari Nayak is an Indian chef, restaurateur, and cookbook author based in the United States. He has worked in several Michelin-starred restaurants and is known for his modern and inventive take on Indian cuisine.",
+    "numRecipes": 3,
+    "recipes": [
+      {
+        "name": "Tandoori Chicken",
+        "ingredients": ["chicken", "yogurt", "spices", "lemon", "garlic"],
+        "method": "Marinate chicken in yogurt, spices, lemon, and garlic, cook in a tandoor oven"
+      },
+      {
+        "name": "Baingan Bharta",
+        "ingredients": ["eggplant", "tomatoes", "onions", "spices", "cilantro"],
+        "method": "Roast eggplant, cook with onions and tomatoes, add spices and garnish with cilantro"
+      },
+      {
+        "name": "Chana Masala",
+        "ingredients": [
+          "chickpeas",
+          "onions",
+          "tomatoes",
+          "spices",
+          "cilantro"
+        ],
+        "method": "Cook chickpeas in an onion-tomato based gravy with spices, garnish with cilantro"
+      }
+    ]
+  }
+]
