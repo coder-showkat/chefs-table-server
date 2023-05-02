@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "foodImage": "https://res.cloudinary.com/dsko6s0ll/image/upload/v1683039013/chef%27s%20table/food1_cvrole.jpg",
+    "author": "Showkat Ali",
+    "authorImage": "https://avatars.githubusercontent.com/u/119802653?v=4",
+    "comment": "I tried the recipe from Chef Ranveer Brar and it was amazing! The instructions were easy to follow and the end result was delicious. Can't wait to try more recipes from this website!",
+    "date": "2022-04-18"
+  },
+  {
+    "id": 2,
+    "foodImage": "https://res.cloudinary.com/dsko6s0ll/image/upload/v1683039144/chef%27s%20table/food2_a28dso.jpg",
+    "author": "Jane Smith",
+    "authorImage": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "Chef Vikas Khanna's recipe blew my mind! I never knew I could make such a tasty dish at home. The website is a treasure trove of amazing recipes and I'm excited to try more.",
+    "date": "2022-05-01"
+  },
+  {
+    "id": 3,
+    "foodImage": "https://res.cloudinary.com/dsko6s0ll/image/upload/v1683039219/chef%27s%20table/food3_fialkm.jpg",
+    "author": "Mark Johnson",
+    "authorImage": "https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "comment": "I'm a foodie and I love to cook. I have to say, the recipes on this website are some of the best I've ever tried. Chef Madhur Jaffrey is a culinary genius and I'm grateful for this website that brings his amazing recipes to my kitchen.",
+    "date": "2022-05-12"
+  }
+]
