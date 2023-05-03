@@ -21,6 +21,13 @@ app.get("/api/chef", (req, res) => {
     res.send(Chefs);
 })
 
+// recipes route
+app.get("/api/recipes/:chef", (req, res)=>{
+    const name = req.params.chef;
+    const selectedChef = Chefs.find(info=>info.name.split(" ").join("-") === name);
+    res.send(selectedChef);
+})
+
 // testimonials get api
 app.get("/api/chefs-table/testimonials", (req,res)=>{
     res.send(testimonials);
