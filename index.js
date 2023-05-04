@@ -1,7 +1,8 @@
 const express = require("express");
 const cors = require("cors");
 const Chefs = require("./chef.json");
-const testimonials = require("./testimonials.json");
+const Testimonials = require("./testimonials.json");
+const Blogs = require("./blog.json");
 
 const app = express();
 const port = 5001;
@@ -30,7 +31,12 @@ app.get("/api/recipes/:chef", (req, res)=>{
 
 // testimonials get api
 app.get("/api/chefs-table/testimonials", (req,res)=>{
-    res.send(testimonials);
+    res.send(Testimonials);
+});
+
+// blogs get api
+app.get("/api/blogs", (req, res)=>{
+    res.send(Blogs);
 })
 
 app.listen(port, () => {

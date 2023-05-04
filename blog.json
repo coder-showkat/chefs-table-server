@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "The differences between uncontrolled and controlled components.",
+    "answer": "The key difference between these two approaches is that in an uncontrolled component, the child component manages its own state, whereas in a controlled component, the parent component manages the state of the child component. Controlled components are often preferred in React because they offer a more predictable and controlled behavior. However, uncontrolled components can be useful in some situations where the data is not closely tied to the React state, and where performance is a concern."
+  },
+  {
+    "id": 2,
+    "question": "How to validate React props using PropTypes?",
+    "answer": "In React, PropTypes is a built-in type-checking feature that is used to validate the props of a component. It can be used to ensure that the correct type of data is being passed down from the parent component to the child component.\nIf a prop is passed down that does not match the expected data type, a warning will be shown in the console. This helps to catch potential bugs early in the development process."
+  },
+  {
+    "id": 3,
+    "question": "The difference between nodejs and express js.",
+    "answer": "Node.js is a JavaScript runtime that provides an environment for executing JavaScript code on the server-side, while Express.js is a web application framework built on top of Node.js that provides a set of tools and features to help developers build efficient and scalable web applications."
+  },
+  {
+    "id": 4,
+    "question": "What is a custom hook, and why will you create a custom hook?",
+    "answer": "In React, a custom hook is a function that allows you to extract and reuse some common logic that is not specific to any particular component. You can use a custom hook in multiple components to avoid repeating the same code, making your code more modular, reusable, and easier to maintain.\nCustom hooks can be used for a variety of tasks, such as handling form state, managing stateful logic, fetching data from an API, and much more. They are created using the same basic syntax as a regular function, but the name of the function should begin with the word \"use\". This tells React that it's a custom hook and can be used in other components.\nCreating custom hooks can help you avoid repeating code, keep your code more organized, and make it easier to share code between components. It's a powerful feature of React that can help you write more efficient and reusable code."
+  }
+]
