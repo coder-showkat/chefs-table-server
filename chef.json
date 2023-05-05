@@ -10,6 +10,7 @@
       {
         "id": 1,
         "title": "Butter Chicken",
+        "img": "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-27.jpg",
         "ingredients": [
           {
             "name": "chicken",
@@ -66,6 +67,7 @@
       {
         "id": 2,
         "title": "Paneer Butter Masala",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
         "ingredients": [
           {
             "name": "paneer",
@@ -121,6 +123,7 @@
       {
         "id": 3,
         "title": "Tandoori Chicken",
+        "img": "https://thebigmansworld.com/wp-content/uploads/2022/11/tandoori-chicken-recipe.jpg",
         "ingredients": [
           { "name": "Chicken", "quantity": "1 whole" },
           { "name": "Yogurt", "quantity": "1/2 cup" },
@@ -154,6 +157,7 @@
       {
         "id": 1,
         "title": "Paneer Tikka Masala",
+        "img": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/paneer-tikka-masala.jpg",
         "ingredients": [
           { "name": "Paneer", "quantity": "250g" },
           { "name": "Yogurt", "quantity": "1/2 cup" },
@@ -178,6 +182,7 @@
       {
         "id": 2,
         "title": "Tandoori Chicken",
+        "img": "https://thebigmansworld.com/wp-content/uploads/2022/11/tandoori-chicken-recipe.jpg",
         "ingredients": [
           { "name": "Chicken", "quantity": "1 whole" },
           { "name": "Yogurt", "quantity": "1/2 cup" },
@@ -201,6 +206,7 @@
       {
         "id": 3,
         "title": "Kashmiri Dum Aloo",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/04/kashmiri-dum-aloo-recipe-11a.jpg",
         "ingredients": [
           {
             "name": "Baby potatoes",
@@ -302,6 +308,7 @@
       {
         "id": 1,
         "title": "Chicken Tikka Masala",
+        "img": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
         "ingredients": [
           {
             "name": "boneless chicken",
@@ -381,6 +388,7 @@
       {
         "id": 2,
         "title": "Paneer Tikka Masala",
+        "img": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/paneer-tikka-masala.jpg",
         "ingredients": [
           { "name": "Paneer", "quantity": "250g" },
           { "name": "Yogurt", "quantity": "1/2 cup" },
@@ -405,6 +413,7 @@
       {
         "id": 3,
         "title": "Butter Chicken",
+        "img": "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-27.jpg",
         "ingredients": [
           {
             "name": "chicken",
@@ -471,6 +480,7 @@
       {
         "id": 1,
         "title": "Butter Chicken",
+        "img": "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-27.jpg",
         "ingredients": [
           {
             "name": "chicken",
@@ -527,6 +537,7 @@
       {
         "id": 2,
         "title": "Kashmiri Dum Aloo",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/04/kashmiri-dum-aloo-recipe-11a.jpg",
         "ingredients": [
           {
             "name": "Baby potatoes",
@@ -618,6 +629,7 @@
       {
         "id": 3,
         "title": "Paneer Tikka Masala",
+        "img": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/paneer-tikka-masala.jpg",
         "ingredients": [
           { "name": "Paneer", "quantity": "250g" },
           { "name": "Yogurt", "quantity": "1/2 cup" },
@@ -652,6 +664,7 @@
       {
         "id": 1,
         "title": "Butter Chicken",
+        "img": "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-27.jpg",
         "ingredients": [
           {
             "name": "chicken",
@@ -708,6 +721,7 @@
       {
         "id": 2,
         "title": "Paneer Butter Masala",
+        "img": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
         "ingredients": [
           {
             "name": "paneer",
@@ -763,6 +777,7 @@
       {
         "id": 3,
         "title": "Tandoori Chicken",
+        "img": "https://thebigmansworld.com/wp-content/uploads/2022/11/tandoori-chicken-recipe.jpg",
         "ingredients": [
           { "name": "Chicken", "quantity": "1 whole" },
           { "name": "Yogurt", "quantity": "1/2 cup" },
@@ -796,6 +811,7 @@
       {
         "id": 1,
         "title": "Chicken Tikka Masala",
+        "img": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
         "ingredients": [
           {
             "name": "boneless chicken",
@@ -875,6 +891,7 @@
       {
         "id": 2,
         "title": "Paneer Tikka Masala",
+        "img": "https://s3.amazonaws.com/static.realcaliforniamilk.com/media/recipes_2/paneer-tikka-masala.jpg",
         "ingredients": [
           { "name": "Paneer", "quantity": "250g" },
           { "name": "Yogurt", "quantity": "1/2 cup" },
@@ -899,6 +916,7 @@
       {
         "id": 3,
         "title": "Butter Chicken",
+        "img": "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-27.jpg",
         "ingredients": [
           {
             "name": "chicken",
